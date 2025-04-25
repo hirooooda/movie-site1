@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #6d3b3b; /* 落ち着いたくすみ系の赤 */
+    background-color: #c5dbe8; /* 落ち着いたくすみ系の赤 */
     color: white;
     text-align: center;
     padding: 20px 0;
@@ -28,7 +28,7 @@ h1, h2 {
 }
 
 a {
-    color: #6d3b3b;
+    color: #c5dbe8;
     text-decoration: none;
 }
 
