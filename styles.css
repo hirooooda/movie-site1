@@ -2,11 +2,11 @@ body {
     font-family: '游明朝', YuMincho, serif;
     margin: 0;
     padding: 0;
-    background-color: #faf3e0;
+    background-color: #c5dbe8;
 }
 
 header {
-    background-color: #c5dbe8; /* 落ち着いたくすみ系の赤 */
+    background-color: #6d3b3b;
     color: white;
     text-align: center;
     padding: 20px 0;
